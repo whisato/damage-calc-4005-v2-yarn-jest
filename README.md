@@ -1,5 +1,7 @@
 # damage-calc
-このモジュールでは、ダメージ計算を行うことができます。  
+[![CircleCI](https://circleci.com/gh/sifue/damage-calc-4005-v2-yarn.svg?style=svg)](https://circleci.com/gh/sifue/damage-calc-4005-v2-yarn)
+
+このモジュールでは、ダメージ計算を行うことができます。
 ダメージ計算には
 
 - ダメージ
